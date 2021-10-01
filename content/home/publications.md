@@ -3,13 +3,15 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
+active: true
+
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 30
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -29,14 +31,12 @@ content:
     author: ''
     exclude_featured: true
 design:
+  view: 2
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  # view: 4
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}

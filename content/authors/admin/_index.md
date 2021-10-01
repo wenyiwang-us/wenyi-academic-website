@@ -1,43 +1,36 @@
 ---
 title: Wenyi Wang
-role: Student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: CS Research Assistant (Intern)
+bio: My research interests include systems for machine learning and machine learning for systems.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - System for Machine Learning
+  - Machine Learning for Systems
+  - High-performance Computing
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:wenyiwang2021@u.northwestern.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/wenyiwang-us
+    link: https://github.com/wenyiwang-matthias
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/wenyi-wang-nu/
 organizations:
-  - name: Northwestern University
-    url: https://www.northwestern.edu/
+  - name: MIT Media Lab
+    url: https://www.media.mit.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.S. in Computer Science
+      institution: Northwestern University, Evanston, IL, USA
+      year: 2021
+    - course: B.E. in Software Engineering
+      institution: Northeastern University, Shenyang, China
+      year: 2019
 email: ""
 superuser: true
 highlight_name: true
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hello visitor! It is nice to have you here! This website is still under construction.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
