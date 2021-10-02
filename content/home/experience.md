@@ -38,7 +38,22 @@ experience:
     location: Pittsburgh, PA
     date_start: '2021-05-01'
     date_end: ''
-    description: 
+    description:
+
+  - title: Visiting Student & Research Assistant
+    company: University of California, Irvine
+    company_url: 'https://engineering.uci.edu/'
+    company_logo: uci-logo2
+    location: Irvine, CA
+    date_start: '2018-06-23'
+    date_end: '2018-09-07'
+    description:
+
+    
+
+
+    
+
 
 design:
   columns: '2'

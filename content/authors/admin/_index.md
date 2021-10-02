@@ -1,12 +1,11 @@
 ---
 title: Wenyi Wang
 role: CS Research Assistant (Intern)
-bio: My research interests include systems for machine learning and machine learning for systems.
+bio: My primary research interests include Computer Systems, AI, Robotics and the intersection of them.
 interests:
-  - System for Machine Learning
-  - Machine Learning for Systems
-  - High-performance Computing
+  - Computer Systems
   - Machine Learning
+  - Robotics
 social:
   - icon: envelope
     icon_pack: fas
@@ -32,5 +31,13 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hello visitor! It is nice to have you here! This website is still under construction.
+I am Wenyi Wang (王文意), a research intern in the [Fluid Interfaces Group](https://www.media.mit.edu/groups/fluid-interfaces/projects/) at [MIT Media Lab](https://www.media.mit.edu/), working closely with Dr. [Camilo Rojas](https://www.media.mit.edu/people/camilorq/overview/).
+I am also working as a research intern in [Xu lab@CBD_SCS_CMU](https://xulabs.github.io/) at [Carnegie Mellon University](https://www.cs.cmu.edu/), advised by Prof. [Min Xu](https://xulabs.github.io/min-xu/).
+
+
+I have broad research interests in Computer Systems, Artificial Intelligence, Robotics and especially the intersection of them.
+
+I obtained my M.S. in Computer Science from [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/), where I was very fortunate to work with, and be advised by, Prof. [Peter Dinda](http://pdinda.org/) in [Prescience Lab](http://presciencelab.org/).
+Prior to that, I graduated from [Northeastern University, China](http://english.neu.edu.cn/) with B.E. in Software Engineering.
+
 

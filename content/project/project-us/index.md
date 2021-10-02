@@ -14,16 +14,33 @@ image:
   caption: Project Us
   focal_point: Smart
 
-#links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/wenyi
+
+links:
+- icon: video
+  icon_pack: fas
+  name: Demo
+  url: https://vimeo.com/603927543
+- icon: external-link-alt
+  icon_pack: fas
+  name: Overview
+  url: https://www.media.mit.edu/projects/project-us/overview/
+- icon: home
+  icon_pack: fas
+  name: Website
+  url: https://projectus.ai/
+- icon: user-friends
+  icon_pack: fas
+  name: Fluid Interfaces
+  url: https://www.media.mit.edu/groups/fluid-interfaces/projects/
+- icon: university
+  icon_pack: fas
+  name: MIT Media Lab
+  url: https://www.media.mit.edu/
 
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://vimeo.com/603927543"
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

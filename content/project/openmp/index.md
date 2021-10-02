@@ -17,6 +17,14 @@ links:
   icon_pack: fab
   name: GitHub
   url: https://github.com/PeterDinda/nautilus
+- icon: user-friends
+  icon_pack: fas
+  name: Prescience Lab
+  url: http://presciencelab.org/
+- icon: university
+  icon_pack: fas
+  name: Northwestern University
+  url: https://www.mccormick.northwestern.edu/computer-science/
 url_code: ""
 url_pdf: ""
 url_slides: ""

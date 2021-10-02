@@ -17,6 +17,14 @@ links:
   icon_pack: fab
   name: GitHub
   url: https://github.com/xulabs/aitom
+- icon: user-friends
+  icon_pack: fas
+  name: 'Xu lab@CBD_SCS_CMU'
+  url: https://xulabs.github.io/
+- icon: university
+  icon_pack: fas
+  name: Carnegie Mellon University
+  url: https://www.cs.cmu.edu/
 url_code: ""
 url_pdf: ""
 url_slides: ""
