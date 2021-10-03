@@ -32,7 +32,7 @@ superuser: true
 highlight_name: true
 ---
 I am Wenyi Wang (王文意), a research intern in the [Fluid Interfaces Group](https://www.media.mit.edu/groups/fluid-interfaces/projects/) at [MIT Media Lab](https://www.media.mit.edu/), working closely with Dr. [Camilo Rojas](https://www.media.mit.edu/people/camilorq/overview/).
-I am also working as a research intern in [Xu lab@CBD_SCS_CMU](https://xulabs.github.io/) at [Carnegie Mellon University](https://www.cs.cmu.edu/), advised by Prof. [Min Xu](https://xulabs.github.io/min-xu/).
+I am also actively helping as a research intern in [Xu lab@CBD_SCS_CMU](https://xulabs.github.io/) at [Carnegie Mellon University](https://www.cs.cmu.edu/), advised by Prof. [Min Xu](https://xulabs.github.io/min-xu/).
 
 
 I have broad research interests in Computer Systems, Artificial Intelligence, Robotics and especially the intersection of them.
