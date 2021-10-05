@@ -17,7 +17,7 @@ main:
     url: '#experience'
     weight: 40
   - name: CV
-    url: ''
+    url: 'uploads/CV-WWY-2021.pdf'
     weight: 50
 #  - name: Publications
 #    url: '#featured'
