@@ -1,8 +1,11 @@
 ---
 title: Saliency Detection for Cryo-Electron Tomography
-summary: Can computer vision techniques liberate scientist from rigid labeling work for bio-images?
+summary: We are trying to come up with novel ideas to help scientists easily locate and identify 3-D microscopic biological structures from large amount of unlabeled Cryo-Electron Tomography data, using Computer Vision techniques.
 tags:
-- Deep Learning
+- Machine Learning
+- Computer Vision
+- Bioinformatics 
+
 date: "2021-05-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

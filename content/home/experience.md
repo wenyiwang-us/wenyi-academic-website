@@ -49,8 +49,15 @@ experience:
     date_end: '2018-09-07'
     description:
 
+  - title: Undergraduate Research Assistant
+    company: Northeastern University, China
+    company_url: 'http://english.neu.edu.cn/'
+    company_logo: neu
+    location: Shenyang, China
+    date_start: '2016-06-23'
+    date_end: '2018-06-23'
+    description:
     
-
 
     
 

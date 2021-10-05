@@ -1,8 +1,8 @@
 ---
 title: The Interweaving Project
-summary: We specifically made contribution to the OpenMP to the kernels work.
+summary: Our contribution is that we brought OpenMP implementation to the kernel in three different approaches.
 tags:
-- Deep Learning
+- Systems
 date: "2021-08-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

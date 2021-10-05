@@ -1,6 +1,6 @@
 ---
 title: Project Us
-summary: A project that help support diversity and inclusion.
+summary: A project that helps build inclusive leaders and diverse organizations.
 tags:
 - Machine Learning
 - Web Development
