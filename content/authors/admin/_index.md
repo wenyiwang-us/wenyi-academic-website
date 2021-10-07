@@ -1,9 +1,10 @@
 ---
 title: Wenyi Wang
 role: CS Research Assistant (Intern)
-bio: My primary research interests include Computer Systems, AI, Robotics and the intersection of them.
+bio: My primary research interests include Computer Systems, HPC, AI, Robotics and the intersection of them.
 interests:
   - Computer Systems
+  - High Performance Computing
   - Machine Learning
   - Robotics
 social:
@@ -35,7 +36,7 @@ I am Wenyi Wang (王文意), a research intern in the [Fluid Interfaces Group](h
 I am also actively helping as a research intern in [Xu lab@CBD_SCS_CMU](https://xulabs.github.io/) at [Carnegie Mellon University](https://www.cs.cmu.edu/), advised by Prof. [Min Xu](https://xulabs.github.io/min-xu/).
 
 
-I have broad research interests in Computer Systems, Artificial Intelligence, Robotics and especially the intersection of them.
+I have broad research interests in Computer Systems, High Performance Computing, Artificial Intelligence, Robotics and especially the intersection of them.
 
 I obtained my M.S. in Computer Science from [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/), where I was very fortunate to work with, and be advised by, Prof. [Peter Dinda](http://pdinda.org/) in [Prescience Lab](http://presciencelab.org/).
 Prior to that, I graduated from [Northeastern University, China](http://english.neu.edu.cn/) with B.E. in Software Engineering.
