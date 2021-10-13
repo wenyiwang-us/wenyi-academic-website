@@ -1,6 +1,6 @@
 ---
 title: Saliency Detection for Cryo-Electron Tomography
-summary: We are trying to come up with novel ideas to help scientists easily locate and identify 3-D microscopic biological structures from large amount of unlabeled Cryo-Electron Tomography data, using Computer Vision techniques.
+summary: We aimed to invent novel methods to help scientists easily locate and identify 3-D microscopic biological structures from large amount of unlabeled Cryo-Electron Tomography data, using Computer Vision techniques.
 tags:
 - Machine Learning
 - Computer Vision

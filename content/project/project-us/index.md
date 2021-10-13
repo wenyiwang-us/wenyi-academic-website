@@ -1,6 +1,6 @@
 ---
 title: Project Us
-summary: A project that helps build inclusive leaders and diverse organizations.
+summary: “Us” aims to help people develop their sense of empathy. It uses machine learning to analyze interlocutors’ signals (e.g., tone of voice, choice of words, facial expressions, electrodermal activity, heart rate, etc.) during conversations, and feeds the emotional content back to them in real time and through multiple analyses. We have versions of the system for both in-person and online conversations.
 tags:
 - Machine Learning
 - Web Development
@@ -18,7 +18,7 @@ image:
 links:
 - icon: video
   icon_pack: fas
-  name: Demo
+  name: MIT delta v Demo Day
   url: https://vimeo.com/603927543
 - icon: external-link-alt
   icon_pack: fas
