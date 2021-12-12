@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Intern
+  - title: Research Assistant
     company: MIT Media Lab
     company_url: 'https://www.media.mit.edu/'
     company_logo: mit-logo
@@ -31,13 +31,23 @@ experience:
     date_end: ''
    
         
-  - title: Research Intern
+  - title: Research Assistant Intern
     company: Carnegie Mellon University
     company_url: 'https://www.cs.cmu.edu/'
     company_logo: cmu
     location: Pittsburgh, PA
     date_start: '2021-05-01'
     date_end: ''
+    description:
+
+    
+  - title: Graduate Research Assistant
+    company: Northwestern University
+    company_url: 'https://www.mccormick.northwestern.edu/computer-science/'
+    company_logo: nu
+    location: Evanston, IL
+    date_start: '2019-09-01'
+    date_end: '2021-08-01'
     description:
 
   - title: Visiting Student & Research Assistant
