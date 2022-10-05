@@ -1,6 +1,6 @@
 ---
 title: Wenyi Wang
-role: CS Research Assistant
+role: PhD Student
 bio: My primary research interests include Computer Systems, HPC, AI, Robotics and the intersection of them.
 interests:
   - Systems
@@ -22,8 +22,8 @@ social:
     icon_pack: ai
     link: uploads/CV-WWY-PUBLIC.pdf
 organizations:
-  - name: MIT Media Lab
-    url: https://www.media.mit.edu/
+  - name: The University of Chicago
+    url: https://cs.uchicago.edu/
 education:
   courses:
     - course: M.S. in Computer Science
@@ -32,12 +32,15 @@ education:
     - course: B.E. in Software Engineering
       institution: Northeastern University, Shenyang, China
       year: 2019
-email: "wenyiwang2021@u.northwestern.edu"
+email: "wenyiw@uchicago.edu"
 superuser: true
 highlight_name: true
 ---
-I am Wenyi Wang (王文意), a research assistant in the [Fluid Interfaces Group](https://www.media.mit.edu/groups/fluid-interfaces/projects/) at [MIT Media Lab](https://www.media.mit.edu/), working closely with Dr. [Camilo Rojas](https://www.media.mit.edu/people/camilorq/overview/) and Prof. [Pattie Maes](https://www.media.mit.edu/people/pattie/overview/).
-I am also actively collaborating as a research intern in [Xu lab](https://xulabs.github.io/) at [Carnegie Mellon University](https://www.cs.cmu.edu/), advised by Prof. [Min Xu](https://xulabs.github.io/min-xu/).
+I am Wenyi Wang (王文意), a first-year PhD student in the Department of Computer Science at The University of Chicago.
+I am also part of the [Globus Labs](https://labs.globus.org/), led by Prof. [Ian Foster](https://cs.uchicago.edu/people/ian-foster/) and Prof. [Kyle Chard](https://kylechard.com/).
+
+Before, I was a research assistant in the [Fluid Interfaces Group](https://www.media.mit.edu/groups/fluid-interfaces/projects/) at [MIT Media Lab](https://www.media.mit.edu/), working closely with Dr. [Camilo Rojas](https://www.media.mit.edu/people/camilorq/overview/) and Prof. [Pattie Maes](https://www.media.mit.edu/people/pattie/overview/).
+I was also actively collaborating as a research intern in [Xu lab](https://xulabs.github.io/) at [Carnegie Mellon University](https://www.cs.cmu.edu/), advised by Prof. [Min Xu](https://xulabs.github.io/min-xu/).
 
 
 I am broadly interested in Systems and Artificial Intelligence, including Systems for AI/ML, AI/ML for Systems, distributed systems, cloud computing and HPC.
