@@ -1,12 +1,12 @@
 ---
 title: Wenyi Wang
 role: PhD Student
-bio: My primary research interests include Computer Systems, HPC, AI, Robotics and the intersection of them.
+bio: My primary research interests include Computer Systems, HPC, AI and the intersections of them.
 interests:
   - Systems
-  - AI/ML
-  - Cloud and distributed systems
   - High-performance computing
+  - Cloud and distributed systems
+
 
 social:
   - icon: envelope
@@ -37,7 +37,8 @@ superuser: true
 highlight_name: true
 ---
 I am Wenyi Wang (王文意), a first-year PhD student in the Department of Computer Science at The University of Chicago.
-I am also part of the [Globus Labs](https://labs.globus.org/), led by Prof. [Ian Foster](https://cs.uchicago.edu/people/ian-foster/) and Prof. [Kyle Chard](https://kylechard.com/).
+I am currently co-advised by Prof. [Ian Foster](https://cs.uchicago.edu/people/ian-foster/), Prof. [Kyle Chard](https://kylechard.com/) and Prof. [Yanjing Li](http://people.cs.uchicago.edu/~yanjingl/).
+I am also part of the [Globus Labs](https://labs.globus.org/).
 
 Before, I was a research assistant in the [Fluid Interfaces Group](https://www.media.mit.edu/groups/fluid-interfaces/projects/) at [MIT Media Lab](https://www.media.mit.edu/), working closely with Dr. [Camilo Rojas](https://www.media.mit.edu/people/camilorq/overview/) and Prof. [Pattie Maes](https://www.media.mit.edu/people/pattie/overview/).
 I was also actively collaborating as a research intern in [Xu lab](https://xulabs.github.io/) at [Carnegie Mellon University](https://www.cs.cmu.edu/), advised by Prof. [Min Xu](https://xulabs.github.io/min-xu/).

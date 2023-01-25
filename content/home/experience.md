@@ -28,7 +28,7 @@ experience:
     company_logo: mit-logo
     location: Cambridge, MA
     date_start: '2021-06-01'
-    date_end: ''
+    date_end: '2022-06-01'
    
         
   - title: Research Assistant Intern
@@ -37,7 +37,7 @@ experience:
     company_logo: cmu
     location: Pittsburgh, PA
     date_start: '2021-05-01'
-    date_end: ''
+    date_end: '2023-01-01'
     description:
 
     
