@@ -5,13 +5,14 @@ bio: My primary research interests include Computer Systems, HPC, AI and the int
 interests:
   - Systems
   - High-performance computing
+  - Machine Learning Systems
   - Cloud and distributed systems
 
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:wenyiwang2021@u.northwestern.com'
+    link: 'mailto:wenyiw@uchicago.edu'
   - icon: github
     icon_pack: fab
     link: https://github.com/wenyiwang-matthias
