@@ -37,7 +37,7 @@ email: "wenyiw@uchicago.edu"
 superuser: true
 highlight_name: true
 ---
-I am Wenyi Wang (王文意), a first-year PhD student in the Department of Computer Science at The University of Chicago.
+I am Wenyi Wang (王文意), a second-year PhD student in the Department of Computer Science at The University of Chicago.
 I am currently co-advised by Prof. [Ian Foster](https://cs.uchicago.edu/people/ian-foster/), Prof. [Kyle Chard](https://kylechard.com/) and Prof. [Yanjing Li](http://people.cs.uchicago.edu/~yanjingl/).
 I am also part of the [Globus Labs](https://labs.globus.org/).
 
