@@ -1,12 +1,11 @@
 ---
 title: Wenyi Wang
 role: PhD Student
-bio: My primary research interests include Computer Systems, HPC, AI and the intersections of them.
+bio: My primary research interests include Parallel Computing, Open-Source Software, Fine-grained tasking and OpenMP.
 interests:
-  - Systems
-  - High-performance computing
-  - Machine Learning Systems
-  - Cloud and distributed systems
+  - Parallel Computing
+  - OpenMP
+  - Fine-grained Tasking
 
 
 social:
@@ -18,7 +17,7 @@ social:
     link: https://github.com/wenyiwang-matthias
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/wenyi-wang-nu/
+    link: https://www.linkedin.com/in/wenyi-wang-cs/
   - icon: cv
     icon_pack: ai
     link: uploads/CV-WWY-PUBLIC.pdf
@@ -38,16 +37,11 @@ superuser: true
 highlight_name: true
 ---
 I am Wenyi Wang (王文意), a second-year PhD student in the Department of Computer Science at The University of Chicago.
-I am currently co-advised by Prof. [Ian Foster](https://cs.uchicago.edu/people/ian-foster/), Prof. [Kyle Chard](https://kylechard.com/) and Prof. [Yanjing Li](http://people.cs.uchicago.edu/~yanjingl/).
-I am also part of the [Globus Labs](https://labs.globus.org/).
+I am currently advised by Prof. [Kyle Chard](https://kylechard.com/) and Prof. [Ian Foster](https://cs.uchicago.edu/people/ian-foster/), as a member of the [Globus Labs](https://labs.globus.org/).
 
-Before, I was a research assistant in the [Fluid Interfaces Group](https://www.media.mit.edu/groups/fluid-interfaces/projects/) at [MIT Media Lab](https://www.media.mit.edu/), working closely with Dr. [Camilo Rojas](https://www.media.mit.edu/people/camilorq/overview/) and Prof. [Pattie Maes](https://www.media.mit.edu/people/pattie/overview/).
-I was also actively collaborating as a research intern in [Xu lab](https://xulabs.github.io/) at [Carnegie Mellon University](https://www.cs.cmu.edu/), advised by Prof. [Min Xu](https://xulabs.github.io/min-xu/).
-
-
-I am broadly interested in Systems and Artificial Intelligence, including Systems for AI/ML, AI/ML for Systems, distributed systems, cloud computing and HPC.
 
 I obtained my M.S. in Computer Science from [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/), where I was fortunate to work with, and be advised by, Prof. [Peter Dinda](http://pdinda.org/) in [Prescience Lab](http://presciencelab.org/).
-Prior to that, I graduated from [Northeastern University, China](http://english.neu.edu.cn/) with B.E. in Software Engineering.
 
+
+I am broadly interested in Parallel Computing and Open-Source Software. My current focus is to enable finer-grained parallel tasking runtime on OpenMP.
 
